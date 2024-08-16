@@ -18,5 +18,5 @@ cd data_generation_scripts
 
 cd ..
 
-save('Data_files\Fig_2\m_fig2a_201.mat','m');
-save('Data_files\Fig_2\alpha_fig2a_201.mat','alpha');
+save('Data_files\Fig_3\m_fig3a_201.mat','m');
+save('Data_files\Fig_3\alpha_fig3a_201.mat','alpha');
