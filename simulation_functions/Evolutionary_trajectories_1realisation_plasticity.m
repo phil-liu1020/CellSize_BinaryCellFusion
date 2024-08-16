@@ -1,4 +1,4 @@
-function [m,alpha]=Evolutionary_trajectories_1realisation_plasticity(m0,alpha0,A,M,T,Cz,Cp,beta1,beta2,lambda21,lambda12,mu,NEVOL,f0,delta,alphamax)
+function [m,alpha,m2,alpha2]=Evolutionary_trajectories_1realisation_plasticity(m0,alpha0,A,M,T,Cz,Cp,beta1,beta2,lambda21,lambda12,mu,NEVOL,f0,delta,alphamax)
 
 % This code simulates the coevolutionary dynamics between mass m and fusion
 % rate \alpha over NEVOL mutations for a system undergoing bet-hedging in a
