@@ -1,4 +1,4 @@
-beta1=(0.08:0.08:4);
+beta1=(0.1:0.1:4);
 
 fusion_env2beta1=zeros(1,length(beta1));
 fusion_env1beta1=zeros(1,length(beta1));
